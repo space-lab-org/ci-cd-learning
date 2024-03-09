@@ -12,5 +12,5 @@ test ('multiply 6 and 2 to equals 12', function() {
 });
 
 test ('multiply 6 and 1 to equals 6', function() {
-  expect(multiply(6,1)).toBe(12)
+  expect(multiply(6,1)).toBe(6)
 });
